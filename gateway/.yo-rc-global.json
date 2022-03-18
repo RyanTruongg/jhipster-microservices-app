@@ -1,0 +1,9 @@
+{
+  "generator-jhipster:7.7.0": {
+    "promptValues": {
+      "packageName": "com.gateway",
+      "nativeLanguage": "en",
+      "microservicePath": "../alert"
+    }
+  }
+}
